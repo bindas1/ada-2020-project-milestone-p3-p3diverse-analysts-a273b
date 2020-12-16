@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Introduction
 has_more_link: true
 more_link_text: Keep reading
 template: home
